@@ -1,0 +1,44 @@
+.container-valor {
+  width: 1000px;
+  margin: 60px auto;
+  border-radius: 30px;
+}
+
+.valor-renda {
+  float: left;
+  width: 475px;
+  margin-right: 50px;
+  color: #18b9b5;
+}
+
+.valor-gastos {
+  float: left;
+  width: 475px;
+  color: #ff5049;
+}
+
+.item-modificar {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+  background: #efeeee;
+  padding: 13px;
+  border-bottom: 1px solid #e7e7e7;
+  font-size: 1.5rem;
+}
+
+.item-topo {
+  font-size: 2rem;
+}
+
+.btn {
+  padding: 0.5rem;
+  border-radius: 1rem 1px;
+  cursor: pointer;
+  background: #3eeb73;
+  color: #fff;
+  transition: linear 0.2s;
+}
+.btn:hover {
+  background: #4bf07cb9;
+}
